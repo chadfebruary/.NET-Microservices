@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+dizj7O5rEQ7uX9QYaYK6Dmj0ztscdObL0/H7gAelfM8PVp2BhcTGMM3d9bbcGvQvWtB9VRYSL//EhU0g+amOA==",
+  "dgSpecHash": "Sxt7umc4DDhfKa2d0OJk0UlVJLgsoCWXbw8p1Tc+ne/637Xg8XREMYhr5fUnuVnvbXi3y3Fk/DOURMUaMP+RLw==",
   "success": true,
-  "projectFilePath": "C:\\.NET-Microservices\\PlatformService\\PlatformService.csproj",
+  "projectFilePath": "C:\\.NET-Microservices\\platformservice\\PlatformService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Chad\\.nuget\\packages\\automapper\\6.1.1\\automapper.6.1.1.nupkg.sha512",
     "C:\\Users\\Chad\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\3.0.0\\automapper.extensions.microsoft.dependencyinjection.3.0.0.nupkg.sha512",
